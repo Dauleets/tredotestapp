@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "742689912628",
+    "project_id": "tredo-21acd",
+    "storage_bucket": "tredo-21acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742689912628:android:1eb7e36ee60765fa159761",
+        "android_client_info": {
+          "package_name": "com.example.tredo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742689912628-jq6vue14upb3vvnn182ig4gukqu4bq74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tredo",
+            "certificate_hash": "0fb5fbb176a2087fc91cdd73684a5a39d9bcbc44"
+          }
+        },
+        {
+          "client_id": "742689912628-ldpfri116fanugmqut2pp50pa55630rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFe-qetR7P30QaMtCq-Ylw8HhBdeENP6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742689912628-ldpfri116fanugmqut2pp50pa55630rp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742689912628-9nu3e61hns5k7qqe958f9ntvesq3ocqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tredo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
