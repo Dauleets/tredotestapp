@@ -1,17 +1,28 @@
-# tredo
+# 📱 Tredo
 
-A new Flutter project.
+Тестовое Flutter-приложение для обмена сообщениями в реальном времени с аутентификацией через Google и push-уведомлениями.
 
-## Getting Started
+## 🚀 Функциональность
 
-This project is a starting point for a Flutter application.
+- 🔐 Аутентификация через Google (Firebase Auth)
+- 💬 Реальный чат между пользователями (Cloud Firestore)
+- 🔔 Push-уведомления (Firebase Cloud Messaging)
+- 📋 Список всех зарегистрированных пользователей
+- 🧾 История чатов с разделением входящих/исходящих
+- 📱 Адаптивный и удобный интерфейс
+- ✅ Валидация и обработка ошибок
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Стек
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.6.0
+- Firebase (Auth, Firestore, Messaging)
+- Bloc, Auto Route
+- Dio, Lottie, Flutter SVG, Cached Images
+- Push-уведомления (flutter_local_notifications)
+- Google Sign-In
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tredotestapp
+## 📦 Установка
+
+```bash
+flutter pub get
+flutter run
